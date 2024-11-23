@@ -42,9 +42,9 @@ export function TechnologiesTable() {
             <Table>
                 <TableHeader>
                     <TableRow>
-                        <TableHead className="w-[25%]">Name</TableHead>
-                        <TableHead className="w-[50%]">Description</TableHead>
-                        <TableHead className="w-[25%]">Rating</TableHead>
+                        <TableHead className="w-[25%]">Название</TableHead>
+                        <TableHead className="w-[50%]">Описание</TableHead>
+                        <TableHead className="w-[25%]">Рейтинг</TableHead>
                     </TableRow>
                 </TableHeader>
                 <TableBody>
