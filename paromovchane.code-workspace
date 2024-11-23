@@ -1,0 +1,33 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "name": "📁 All project",
+    },
+    {
+      "path": "src/app",
+      "name": "🏠 App",
+    },
+    {
+      "path": "src/_pages",
+      "name": "📄 Pages",
+    },
+    {
+      "path": "src/widgets",
+      "name": "🧩 Widgets",
+    },
+    {
+      "path": "src/features",
+      "name": "🚀 Features",
+    },
+    {
+      "path": "src/entities",
+      "name": "📦 Entities",
+    },
+    {
+      "path": "src/shared",
+      "name": "🔧 Shared",
+    },
+  ],
+  "settings": {},
+}
